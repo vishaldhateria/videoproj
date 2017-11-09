@@ -7,7 +7,7 @@
 
         <h3>Section Secondary</h3>
 
-       <div class=" uk-child-width-1-2@s uk-child-width-1-4@s" uk-grid>
+       <div class=" uk-child-width-1-2@s uk-child-width-1-4@m  uk-child-width-1-2@2" uk-grid>
     <div>
         <div class="uk-card uk-card-default">
             <div class="uk-card-media-top">

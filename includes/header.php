@@ -30,7 +30,7 @@
         </div>
         <ul class="uk-navbar-nav">
             <li>
-                <button class="uk-button uk-button-default">SIGN IN</button>
+                <a href="login.php"><button class="uk-button uk-button-default">SIGN IN</button></a>
 
             </li>
         </ul>
