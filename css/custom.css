@@ -1,0 +1,19 @@
+/*.uk-continer{
+	padding:0px 100px 30px;
+	background-color: gray;
+}*/
+
+
+ul.card {
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+  max-width: 1200px;
+  overflow-x: auto;
+  background-color: #ddd;
+}
+ul.card li {
+  display: inline;
+  width: 150px;
+  height: 150px;
+}
