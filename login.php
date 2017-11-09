@@ -41,9 +41,7 @@
 <button class="uk-button uk-button-default  uk-align-right">login</button>
 <h3 class="uk-text-center">OR</h3>
 <hr class="uk-divider-icon">
-
-<h3 class="uk-text-center"><a href="register.php">Register Here</a></h3>
-
+<a href="register.php"><button class="uk-button uk-button-default uk-align-center">REGISTER NOW</button></a>
     </div>
 
 </form>
